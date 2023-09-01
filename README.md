@@ -1,6 +1,9 @@
 # ServerMan
 Next-generation linux management scripts
 
+
+<div align="center"><img src="https://raw.githubusercontent.com/MasonDye/ServerMan/main/example.png"></div>
+
 ## What is a ServerMan?
 ServerMan is a manage linux server bash script
 
