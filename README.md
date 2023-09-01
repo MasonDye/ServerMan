@@ -4,10 +4,10 @@ Next-generation linux management scripts
 
 <div align="center"><img src="https://raw.githubusercontent.com/MasonDye/ServerMan/main/example.png"></div>
 
-## What is a ServerMan?
+## What is ServerMan?
 ServerMan is a manage linux server bash script
 
-## This can Manage what?
+## What can this manage?
 ServerMan can Manage: ssh user and more...
 
 ## How to use ServerMan?
