@@ -11,5 +11,8 @@ ServerMan is a manage linux server bash script
 ServerMan can Manage: ssh user and more...
 
 ## How to use ServerMan?
-Use This Command (you need install wget):
+ROOT (you need install wget):
 <pre><code>wget https://raw.githubusercontent.com/MasonDye/ServerMan/main/ServerMan.sh && chmod 777 ServerMan.sh && bash ServerMan.sh</code></pre>
+
+SUDO (you need install wget):
+<pre><code>sudo wget https://raw.githubusercontent.com/MasonDye/ServerMan/main/ServerMan.sh && sudo chmod 777 ServerMan.sh && sudo bash ServerMan.sh</code></pre>
