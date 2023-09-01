@@ -2,7 +2,7 @@
 
 # ---Server Manage Script---
 # Author : Mason https://blog.almondnet.cn/
-# wget https://github.com
+# wget https://raw.githubusercontent.com/MasonDye/ServerMan/main/ServerMan.sh && chmod 777 ServerMan.sh && bash ServerMan.sh
 
 # Print gui
 print_menu() {
